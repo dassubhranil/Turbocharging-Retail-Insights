@@ -1,0 +1,1 @@
+pip install apache-airflow-providers-google==10.13.1
